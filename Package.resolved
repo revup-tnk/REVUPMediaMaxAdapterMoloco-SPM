@@ -1,12 +1,12 @@
 {
   "pins" : [
     {
-      "identity" : "applovin-max-swift-package",
+      "identity" : "moloco-sdk-ios-spm",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/AppLovin/AppLovin-MAX-Swift-Package.git",
+      "location" : "https://github.com/moloco/moloco-sdk-ios-spm.git",
       "state" : {
-        "revision" : "b5acf713209298059bb2f09b22d84d523454bc7b",
-        "version" : "13.5.1"
+        "revision" : "c86d79495821fa953e06be3511d296a793537cdd",
+        "version" : "4.8.1"
       }
     }
   ],
