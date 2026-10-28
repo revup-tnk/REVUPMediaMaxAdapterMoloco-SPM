@@ -1,12 +1,30 @@
 {
   "pins" : [
     {
+      "identity" : "applovin-max-swift-package",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AppLovin/AppLovin-MAX-Swift-Package.git",
+      "state" : {
+        "revision" : "02544c3400d228cce5718e22f71f8d02787ba91e",
+        "version" : "13.6.4"
+      }
+    },
+    {
+      "identity" : "applovin-max-swift-package-moloco",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AppLovin/AppLovin-MAX-Swift-Package-Moloco.git",
+      "state" : {
+        "revision" : "4e22dc3493bd66744d923b4b69e5a211ed90e9de",
+        "version" : "4110100.0.0"
+      }
+    },
+    {
       "identity" : "moloco-sdk-ios-spm",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/moloco/moloco-sdk-ios-spm.git",
       "state" : {
-        "revision" : "c86d79495821fa953e06be3511d296a793537cdd",
-        "version" : "4.8.1"
+        "revision" : "f279a5fa1b3cdc80fa7f4a9c44d420648cf9b226",
+        "version" : "4.11.1"
       }
     }
   ],
